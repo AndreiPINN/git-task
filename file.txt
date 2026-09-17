@@ -3,3 +3,4 @@ HEAD
 =======
 Текст из ветки conflict-branch
 conflict-branch
+Дополнительная строка
